@@ -13,12 +13,6 @@ Esta documentação foi criada para ajudar a entender como funciona o projeto de
 7. [MODEL.md](MODEL.md) - Explica o Model (formulário de receita)
 8. [APP.md](APP.md) - Explica o App (porta de entrada)
 
-## Como Usar
-
-1. Comece lendo o [ESTRUTURA.md](ESTRUTURA.md) para entender a visão geral
-2. Depois leia sobre cada componente na ordem que preferir
-3. Use as analogias com o restaurante para entender melhor cada parte
-
 ## Analogia do Restaurante
 
 Todo o projeto foi explicado usando uma analogia com um restaurante:
@@ -30,23 +24,3 @@ Todo o projeto foi explicado usando uma analogia com um restaurante:
 - **ReceitaHandler** - Chef especialista
 - **DAO** - Livro de receitas
 - **Model** - Formulário de receita
-
-## Dicas para Iniciantes
-
-1. Não se preocupe em entender tudo de uma vez
-2. Leia cada arquivo mais de uma vez se necessário
-3. Tente relacionar com coisas do dia a dia
-4. Use os exemplos de código para praticar
-
-## Contribuindo
-
-Se você encontrar algum erro ou quiser melhorar a documentação:
-
-1. Faça um fork do projeto
-2. Crie sua branch
-3. Faça as alterações
-4. Envie um pull request
-
-## Licença
-
-Esta documentação está sob a licença MIT. Sinta-se à vontade para usar e modificar conforme necessário. 
